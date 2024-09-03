@@ -7,4 +7,5 @@ Each solution is written in a separate folder and aims to demonstrate different 
 ## References
 
 - [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=OF83024E) for the coding challenges.
+- [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=OF83024E) form what learn.
 - [MDN Web Docs](https://developer.mozilla.org/) for documentation.

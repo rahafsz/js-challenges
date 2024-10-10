@@ -1,6 +1,4 @@
-calcAverage = (score1, score2, score3) => {
-    return (score1 + score2 + score3) / 3;
-};
+calcAverage = (score1, score2, score3) => (score1 + score2 + score3) / 3;
 const avgDolphins = calcAverage(85, 54, 41);
 const avgKoalas = calcAverage(23, 34, 27);
 checkWinner = (avgDolphins, avgKoalas) => {
